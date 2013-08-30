@@ -1,0 +1,9 @@
+<project>
+	<target name="compile">
+		<javac srcdir="." />
+	</target>
+
+	<target name="jar" depends="compile">
+		<jar destfile="Test.jar" basedir="." includes="**/*.class" />
+	</target>
+</project>

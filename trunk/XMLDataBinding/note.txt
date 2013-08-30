@@ -1,0 +1,2 @@
+XML Data Binding with Castor
+http://onjava.com/pub/a/onjava/2001/10/24/xmldatabind.html?page=1
